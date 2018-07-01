@@ -1,0 +1,4 @@
+2018-06-19 00:13:24.176  INFO 27017 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-06-19 00:13:24.213  INFO 27017 --- [RMI TCP Connection(2)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2928854b: startup date [Sat Jun 16 10:42:34 IST 2018]; root of context hierarchy
+2018-06-19 00:13:24.330  INFO 27017 --- [RMI TCP Connection(2)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-06-19 00:13:24.343  INFO 27017 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
